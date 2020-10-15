@@ -1,0 +1,19 @@
+1. Inspiró la era de la computadora casera.
+
+Durante los años sesentas, Gates y su amigo Paul Allen aprendieron BASIC, el cual era un lenguaje simple de aprender, pero con características que podían usar los programadores avanzados. Gates y Allen escribieron una versión de BASIC para la Altair 8800 en 1975, que vendieron en 3000 dólares. BASIC apareció como el lenguaje principal de las microcomputadoras a principios de los años ochentas: Vic-20, Apple ][ e IBM PC, entre otras.
+
+2. Comercializó el sistema operativo
+
+Gates y Allen fundaron Microsoft en 1976. Cuatro años después la empresa consiguió un contrato para producir un sistema operativo que funcionara en lo que sería la IBM PC. Microsoft compró el sistema operativo (86-DOS) a Seattle Computer Products, sistema diseñado para las computadoras basadas en el procesador 8086. La gente conoció este sistema como el PC-DOS y cuando empezaron a salir los clones de la original PC, Microsoft sacó su propia versión del sistema operativo, al que llamó MS-DOS.
+
+3. Lanzamiento de Windows
+
+El producto más importante de Microsoft es sin duda Windows. Se calcula que el 90% de todas las computadoras en el mundo tienen instalada alguna versión de Windows. Versiones del mismo pueden hallarse en servidores, PDAs, máquinas en centros comerciales, cajeros automáticos, etc. La versión de Windows 1.0 era -efectivamente- una versión gráfica de MS-DOS, que nació para competir contra la interfaz gráfica de la computadora Lisa, de Apple. Windows 95 -se dice- se diseñó para reemplazar finalmente a MS-DOS y le dio nueva vida al sistema operativo incluyendo multitasking y plug and play.
+
+4. Convertirse en el hombre más rico del planeta
+
+Bill Gates se convirtió en el hombre más acaudalado del mundo a la edad de 39 años. Se mantuvo como el número uno en la lista Forbs hasta el 2007. De acuerdo a Wired, en su mejor momento, Gates ganaba 30 millones de dólares por día. Ahora es el tercero del mundo en la lista de los más ricos, superado solamente por Warren Buffet y Carlos Slim Helu. La fortuna estimada de Gates es de 58 mil millones de dólares.
+
+5. Donativos
+
+Bill Gates y su mujer Belinda Melinda encabezan la organización filantrópica Bill & Melinda Gates Fundation. En el 2006, Warren Buffet donó 31 mil millones de dólares al la fundación de Gates, la cual tenía ya alrededor de 30 mil millones propios en sus arcas. En el 2007, la fundación gastó cerca de dos mil millones de dólares en educación global y salud.
